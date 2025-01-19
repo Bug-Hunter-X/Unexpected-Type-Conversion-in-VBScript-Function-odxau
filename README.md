@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in VBScript related to implicit type conversion. The `f` function has unexpected behavior when the input is not explicitly handled as a number.  The solution showcases how to enforce numeric type handling to prevent this error.
